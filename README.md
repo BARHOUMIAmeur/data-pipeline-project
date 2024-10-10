@@ -158,8 +158,7 @@ Pour permettre à ce pipeline de traiter des volumes massifs de données, il ser
 - **Tolérance aux pannes** : Assurer la tolérance aux pannes avec des systèmes de reprise en cas d’échec ou des mécanismes de sauvegarde partielle.
 - **Journalisation et alertes** : Intégrer des systèmes de journalisation pour suivre l’état du pipeline et configurer des alertes pour signaler tout incident.
 
-### Conclusion :
-Ces améliorations permettraient au pipeline de traiter efficacement des données massives (plusieurs To ou millions de fichiers), tout en garantissant des performances optimales, une mise à l’échelle automatique, et une gestion efficace des ressources.
+
 
 # Requêtes SQL
 
